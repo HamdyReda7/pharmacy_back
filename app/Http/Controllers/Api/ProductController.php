@@ -34,7 +34,6 @@ class ProductController extends Controller
     public function all()
     {
         $products = Product::where('status', true)
-            ->whereNull('price_before')
             ->orderBy('id', 'asc')
             ->get();
 

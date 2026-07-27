@@ -102,7 +102,7 @@ Route::middleware('auth:sanctum')->group(function () {
         Route::get('/all-categorys', [ManagerController::class, 'category']);
     });
 
-    /*
+/*
 |--------------------------------------------------------------------------
 | Admin APIs
 |--------------------------------------------------------------------------
