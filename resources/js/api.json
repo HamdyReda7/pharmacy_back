@@ -1,0 +1,28 @@
+[
+    {
+        "orderId": "ORD-1782286336230",
+        "customer": {
+            "id": 1782136365777,
+            "name": "Sayed Tarek",
+            "email": "tzsayed6@gmail.com",
+            "phone": "01055529191",
+            "governorate": "bghjkl;",
+            "city": "الرياض",
+            "address": "3136، ظفر الطرقي، 8814",
+            "location": "",
+            "notes": ""
+        },
+        "products": [
+            {
+                "id": 6,
+                "price": 1200,
+                "quantity": 1,
+                "size": "M",
+                "color": "Pink"
+            }
+        ],
+        "total": 1200,
+        "status": "pending",
+        "createdAt": "2026-06-24T07:32:16.230Z"
+    }
+]
